@@ -1,0 +1,2 @@
+export RLINQ_ROOT="$PWD"
+export LUA_PATH="$PWD/utils/?.lua;;"
